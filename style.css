@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(44, 95, 44);
+}
+h1{
+    text-align: center;
+    background-color: red;
+    color: white;
+    width: 400px;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.wrap{
+    width: 50%;
+    margin: 30px auto;
+    background-color: black;
+    border: 4px solid red;
+    padding: 35px;
+    border-radius: 10px;
+}
+.card{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
